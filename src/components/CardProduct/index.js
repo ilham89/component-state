@@ -13,8 +13,6 @@ const CardProduct = () => {
       </div>
 
       <h5>Judul</h5>
-
-      <ion-icon name="heart-outline"></ion-icon>
       <div className="description">halo ini deskripsi</div>
 
       <div style={{ display: "flex", justifyContent: "center" }}>
